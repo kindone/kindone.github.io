@@ -1,0 +1,55 @@
+site_name: 'Thought Logging'
+#site_description: ''
+site_author: 'kindone'
+site_url: 'https://kindone.github.io'
+
+theme:
+  name: material
+  font:
+    text: 'Inter'
+    code: 'Inconsolata'
+  palette:
+    primary: teal
+    accent: light green
+  favicon: assets/favicon.ico
+  features:
+    - navigation.tracking
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.path
+    - toc.follow
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - navigation.expand
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - pymdownx.magiclink
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - attr_list
+  - meta
+  - footnotes
+  - tables
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - git-revision-date-localized
+  - kroki:
+      DownloadImages: true
+  - blogging:
+      dirs:
+        - blog
+
+nav:
+  - index.md
