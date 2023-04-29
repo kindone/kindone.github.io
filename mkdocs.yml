@@ -1,27 +1,35 @@
-site_name: 'Thought Logging'
-#site_description: ''
+site_name: 'Read Learn Think Make'
+site_description: ''
 site_author: 'kindone'
 site_url: 'https://kindone.github.io'
+
+extra_css:
+  - stylesheets/extra.css
 
 theme:
   name: material
   font:
-    text: 'Inter'
+    text: 'Gothic A1'
     code: 'Inconsolata'
   palette:
-    primary: teal
+    primary: green
     accent: light green
-  favicon: assets/favicon.ico
+  logo: images/android-chrome-192x192.png
+  icon:
+    logo: material/leaf
+  favicon: images/favicon-32x32.png
   features:
     - navigation.tracking
+    - navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
-    - navigation.path
-    - toc.follow
+    #- navigation.path (unsupported)
+    #- navigation.sections
     - navigation.top
+    - navigation.expand
+    - toc.follow
     - search.highlight
     - search.suggest
-    - navigation.expand
 
 markdown_extensions:
   - admonition
@@ -50,6 +58,22 @@ plugins:
   - blogging:
       dirs:
         - blog
+      categories:
+        - name: draft
+          dirs:
+            - draft
+      #full_content: true
+      locale: en
+      time_format: '%Y-%m-%d %H:%M:%S'
+      meta_time_format: '%Y-%m-%d %H:%M:%S'
 
 nav:
-  - index.md
+  - 'Articles and Projects':
+    #- 'articles/index.md'
+    - 'Project Sand Castle':
+      - 'articles/sandcastle/index.md'
+  - blog.md
+  - draft.md
+
+
+
