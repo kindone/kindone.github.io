@@ -1,0 +1,73 @@
+<svg version="1.1" baseProfile="full" width="363.5" height="229.0" viewbox="0 0 363.5 229" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events">
+	<desc >[Read] -- [Learn]
+	[Read] -&gt; get inspired [Think]
+	[Think] plan and design -&gt; [Make]
+	[Learn] use skill -&gt; [Make]</desc>
+	<g stroke-width="1.0" text-align="left" font="12pt Helvetica, Arial, sans-serif" font-size="12pt" font-family="Helvetica" font-weight="bold" font-style="normal">
+		<g transform="translate(0.5, 0.5)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round" stroke="#33322E">
+			<g stroke="transparent" fill="transparent">
+				<rect x="0.0" y="0.0" height="229.0" width="363.5" stroke="none"></rect>
+			</g>
+			<g transform="translate(113.5, 8)" fill="#33322E">
+				<g transform="translate(20, 20)" fill="#33322E" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal">
+					<g stroke-dasharray="6 6">
+						<path d="M101.7 31.0 L130 51 L130 71 L130.0 71.0 " fill="none"></path>
+					</g>
+					<text x="-71.5" y="63.0" stroke="none">get inspired</text>
+					<path d="M57.8 31.0 L29.5 51 L29.5 64.33333333333333 L29.5 64.3 " fill="none"></path>
+					<path d="M24.2 57.7 L29.5 64.3 L34.8 57.7 L29.5 71.0 Z"></path>
+					<text x="-105.5" y="122.0" stroke="none">plan and design</text>
+					<path d="M29.5 102.0 L29.5 122 L52.364908634320464 138.15331853767913 L52.4 138.2 " fill="none"></path>
+					<path d="M43.8 138.7 L52.4 138.2 L50.0 130.0 L57.8 142.0 Z"></path>
+					<text x="138.0" y="122.0" stroke="none">use skill</text>
+					<path d="M130.0 102.0 L130 122 L107.13509136567954 138.15331853767913 L107.1 138.2 " fill="none"></path>
+					<path d="M109.5 130.0 L107.1 138.2 L115.7 138.7 L101.7 142.0 Z"></path>
+					<g data-name="Read">
+						<g fill="#eee8d5" stroke="#33322E" data-name="Read">
+							<rect x="51.0" y="0.0" height="31.0" width="58.0" data-name="Read"></rect>
+						</g>
+						<g transform="translate(51, 0)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="Read">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="Read">
+								<text x="21.0" y="13.5" stroke="none" text-anchor="middle" data-name="Read">Read</text>
+								
+							</g>
+						</g>
+					</g>
+					<g data-name="Learn">
+						<g fill="#eee8d5" stroke="#33322E" data-name="Learn">
+							<rect x="99.0" y="71.0" height="31.0" width="62.0" data-name="Learn"></rect>
+						</g>
+						<g transform="translate(99, 71)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="Learn">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="Learn">
+								<text x="23.0" y="13.5" stroke="none" text-anchor="middle" data-name="Learn">Learn</text>
+								
+							</g>
+						</g>
+					</g>
+					<g data-name="Think">
+						<g fill="#eee8d5" stroke="#33322E" data-name="Think">
+							<rect x="0.0" y="71.0" height="31.0" width="59.0" data-name="Think"></rect>
+						</g>
+						<g transform="translate(0, 71)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="Think">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="Think">
+								<text x="21.5" y="13.5" stroke="none" text-anchor="middle" data-name="Think">Think</text>
+								
+							</g>
+						</g>
+					</g>
+					<g data-name="Make">
+						<g fill="#eee8d5" stroke="#33322E" data-name="Make">
+							<rect x="50.0" y="142.0" height="31.0" width="59.0" data-name="Make"></rect>
+						</g>
+						<g transform="translate(50, 142)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="Make">
+							<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="Make">
+								<text x="21.5" y="13.5" stroke="none" text-anchor="middle" data-name="Make">Make</text>
+								
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
