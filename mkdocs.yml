@@ -13,7 +13,7 @@ theme:
     code: 'Inconsolata'
   palette:
     primary: green
-    accent: light green
+    accent: cyan
   logo: images/android-chrome-192x192.png
   icon:
     logo: material/leaf
@@ -47,6 +47,8 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
   - toc:
       permalink: true
 
@@ -70,8 +72,10 @@ plugins:
 nav:
   - 'Articles and Projects':
     #- 'articles/index.md'
-    - 'Project Sand Castle':
+    - '생각의 모래성을 쌓기':
       - 'articles/sandcastle/index.md'
+      - '생각을 표현하기':
+        - 'articles/sandcastle/drawing.md'
   - blog.md
   - draft.md
 
