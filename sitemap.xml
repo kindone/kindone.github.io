@@ -2,32 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://kindone.github.io/</loc>
-         <lastmod>2023-04-29</lastmod>
+         <lastmod>2023-04-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kindone.github.io/blog/</loc>
-         <lastmod>2023-04-29</lastmod>
+         <lastmod>2023-04-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kindone.github.io/draft/</loc>
-         <lastmod>2023-04-29</lastmod>
+         <lastmod>2023-04-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kindone.github.io/articles/</loc>
-         <lastmod>2023-04-29</lastmod>
+         <lastmod>2023-04-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kindone.github.io/articles/sandcastle/</loc>
-         <lastmod>2023-04-29</lastmod>
+         <lastmod>2023-04-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://kindone.github.io/articles/sandcastle/drawing/</loc>
+         <lastmod>2023-04-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://kindone.github.io/draft/korean_post/</loc>
-         <lastmod>2023-04-29</lastmod>
+         <lastmod>2023-04-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

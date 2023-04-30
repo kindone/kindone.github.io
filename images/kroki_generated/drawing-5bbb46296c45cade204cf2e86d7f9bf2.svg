@@ -1,0 +1,20 @@
+<svg xmlns='http://www.w3.org/2000/svg' class="pikchr" viewBox="0 0 397.901 177.12">
+<polygon points="146,27 134,31 134,23" style="fill:rgb(0,0,0)"/>
+<path d="M2,27L140,27"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="74" y="15" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">다이어그램이 포함된</text>
+<text x="74" y="39" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">markdown</text>
+<path d="M161,52L232,52A15 15 0 0 0 247 37L247,17A15 15 0 0 0 232 2L161,2A15 15 0 0 0 146 17L146,37A15 15 0 0 0 161 52Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="196" y="17" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Markdown</text>
+<text x="196" y="37" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">포매터</text>
+<polygon points="391,27 379,31 379,23" style="fill:rgb(0,0,0)"/>
+<path d="M247,27L385,27"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="319" y="15" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">HTML+SVG</text>
+<text x="319" y="39" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central"></text>
+<polygon points="196,52 201,64 192,64" style="fill:rgb(0,0,0)"/>
+<polygon points="196,124 192,113 201,113" style="fill:rgb(0,0,0)"/>
+<path d="M196,58L196,118"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M166,174L227,174A15 15 0 0 0 242 159L242,139A15 15 0 0 0 227 124L166,124A15 15 0 0 0 151 139L151,159A15 15 0 0 0 166 174Z"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="196" y="139" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">다이어그램</text>
+<text x="196" y="159" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central"> 트랜스파일러 </text>
+</svg>
+
