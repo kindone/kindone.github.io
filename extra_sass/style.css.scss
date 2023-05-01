@@ -1,0 +1,119 @@
+$base-font-size: 15px;
+$multiplier: 1.6;
+$vertical-grid-base-half: $base-font-size * $multiplier * 0.5;
+$vertical-grid-base: $base-font-size * $multiplier;
+
+
+.md-content {
+    font-size: $base-font-size;
+    word-break: keep-all;
+}
+
+.md-content {
+    h1, h2, h3, h4, h5, h6 {
+        margin-top: 0;
+    }
+    h1 {
+        font-size: $base-font-size * 3.0;
+        line-height: $vertical-grid-base * 2.0;
+        margin-bottom: $vertical-grid-base * 2.0;
+    }
+
+    h2 {
+        font-size: $base-font-size * 2.5;
+        line-height: $vertical-grid-base * 2.0;
+        margin-top: $vertical-grid-base * 1.5;
+        margin-bottom: $vertical-grid-base * 1.0;
+    }
+
+    h3 {
+        font-size: $base-font-size * 2.0;
+        line-height: $vertical-grid-base * 1.5;
+        margin-top: $vertical-grid-base * 1.5;
+        margin-bottom: $vertical-grid-base * 1;
+    }
+
+    h4 {
+        font-size: $base-font-size * 1.5;
+        line-height: $vertical-grid-base * 1.5;
+        margin-bottom: $vertical-grid-base * 1;
+    }
+
+
+    h5 {
+        font-size: $base-font-size * 1.0;
+        line-height: $vertical-grid-base * 1.0;
+        margin-bottom: $vertical-grid-base * 1;
+    }
+
+    h6 {
+        font-size: $base-font-size * 1.0;
+        line-height: $vertical-grid-base * 1.0;
+        margin-bottom: $vertical-grid-base * 1;
+    }
+
+    p {
+        margin-top: 0;
+        margin-bottom: 1.6em;
+    }
+
+    ol, ul {
+        margin-top: $vertical-grid-base-half * 1.0;
+        margin-bottom: $vertical-grid-base * 1.5;
+    }
+
+    ol li, ul li {
+        margin-top: 0;
+        margin-bottom: $vertical-grid-base-half * 1.0;
+    }
+
+    div.highlight {
+        margin-top: $vertical-grid-base-half * 1.0;
+        margin-bottom: $vertical-grid-base * 1.0;
+
+        span.filename {
+            font-size: $vertical-grid-base-half * 1.0;
+            line-height: $vertical-grid-base * 1.0;
+        }
+    }
+
+    img {
+        margin-top: $vertical-grid-base-half * 1.0;
+        margin-bottom: $vertical-grid-base-half * 1.0;
+    }
+
+    div.footnote {
+        margin-top: $vertical-grid-base * 4.0;
+    }
+
+    hr {
+        margin-top: $vertical-grid-base-half * 2.5;
+        margin-bottom: $vertical-grid-base-half * 1.5;
+    }
+
+    hr:last-of-type {
+        margin-top: $vertical-grid-base-half * 8;
+    }
+
+    tr {
+        line-height: $vertical-grid-base * 1.0;
+    }
+}
+
+/* vertical rhythhm */
+.md-typeset {
+    font-size: $base-font-size;
+    line-height: $multiplier;
+
+    code {
+        font-size: $base-font-size;
+    }
+
+    pre {
+        line-height: $multiplier * 1.0;
+    }
+
+    .tabbed-labels > label {
+        font-size: $base-font-size * 0.8;
+    }
+}

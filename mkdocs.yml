@@ -5,6 +5,7 @@ site_url: 'https://kindone.github.io'
 
 extra_css:
   - stylesheets/extra.css
+  #- https://basehold.it/12 # vertical grid
 
 theme:
   name: material
@@ -13,7 +14,7 @@ theme:
     code: 'Inconsolata'
   palette:
     primary: green
-    accent: cyan
+    accent: light blue
   logo: images/android-chrome-192x192.png
   icon:
     logo: material/leaf
@@ -57,6 +58,7 @@ plugins:
   - git-revision-date-localized
   - kroki:
       DownloadImages: true
+  - extra-sass
   - blogging:
       dirs:
         - blog
