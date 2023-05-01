@@ -7,6 +7,7 @@ $vertical-grid-base: $base-font-size * $multiplier;
 .md-content {
     font-size: $base-font-size;
     word-break: keep-all;
+    text-align: justify;
 }
 
 .md-content {
