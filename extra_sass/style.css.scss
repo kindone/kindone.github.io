@@ -83,6 +83,7 @@ $vertical-grid-base: $base-font-size * $multiplier;
     }
 
     div.footnote {
+        font-size: $vertical-grid-base-half * 1.0;
         margin-top: $vertical-grid-base * 4.0;
     }
 

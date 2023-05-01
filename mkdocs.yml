@@ -7,14 +7,15 @@ extra_css:
   - stylesheets/extra.css
   #- https://basehold.it/12 # vertical grid
 
+copyright: Copyright &copy; 2023 - 2024 Kindone
 theme:
   name: material
   font:
-    text: 'Gothic A1'
+    text: 'Noto Sans KR'
     code: 'Inconsolata'
   palette:
-    primary: green
-    accent: light blue
+    primary: blue grey
+    accent: indigo
   logo: images/android-chrome-192x192.png
   icon:
     logo: material/leaf
@@ -22,10 +23,10 @@ theme:
   features:
     - navigation.tracking
     - navigation.tabs
-    - navigation.tabs.sticky
+    # - navigation.tabs.sticky
     - navigation.indexes
     #- navigation.path (unsupported)
-    #- navigation.sections
+    - navigation.sections
     - navigation.top
     - navigation.expand
     - toc.follow
