@@ -16,27 +16,27 @@ $vertical-grid-base: $base-font-size * $multiplier;
     }
     h1 {
         font-size: $base-font-size * 3.0;
-        line-height: $vertical-grid-base * 2.0;
-        margin-bottom: $vertical-grid-base * 2.0;
+        line-height: $vertical-grid-base * 1.5; // 2.0
+        margin-bottom: $vertical-grid-base * 1.5; // 2.0
     }
 
     h2 {
         font-size: $base-font-size * 2.5;
         line-height: $vertical-grid-base * 2.0;
-        margin-top: $vertical-grid-base * 1.5;
+        margin-top: $vertical-grid-base * 1.0; // 1.5
         margin-bottom: $vertical-grid-base * 1.0;
     }
 
     h3 {
         font-size: $base-font-size * 2.0;
         line-height: $vertical-grid-base * 1.5;
-        margin-top: $vertical-grid-base * 1.5;
+        margin-top: $vertical-grid-base * 1.0; // 1.5
         margin-bottom: $vertical-grid-base * 1;
     }
 
     h4 {
         font-size: $base-font-size * 1.5;
-        line-height: $vertical-grid-base * 1.5;
+        line-height: $vertical-grid-base * 1.0; // 1.5
         margin-bottom: $vertical-grid-base * 1;
     }
 
@@ -55,17 +55,17 @@ $vertical-grid-base: $base-font-size * $multiplier;
 
     p {
         margin-top: 0;
-        margin-bottom: 1.6em;
+        margin-bottom: 0.8em; // 1.6em
     }
 
     ol, ul {
         margin-top: $vertical-grid-base-half * 1.0;
-        margin-bottom: $vertical-grid-base * 1.5;
+        margin-bottom: $vertical-grid-base * 1.0;
     }
 
     ol li, ul li {
         margin-top: 0;
-        margin-bottom: $vertical-grid-base-half * 1.0;
+        // margin-bottom: $vertical-grid-base-half * 1.0;
     }
 
     div.highlight {
@@ -81,6 +81,7 @@ $vertical-grid-base: $base-font-size * $multiplier;
     img {
         margin-top: $vertical-grid-base-half * 1.0;
         margin-bottom: $vertical-grid-base-half * 1.0;
+        width: 100%;
     }
 
     div.footnote {
@@ -93,12 +94,18 @@ $vertical-grid-base: $base-font-size * $multiplier;
         margin-bottom: $vertical-grid-base-half * 1.5;
     }
 
+    div.footnote + hr {
+        margin-top: $vertical-grid-base-half * 0.5;
+        margin-bottom: $vertical-grid-base-half * 1.5;
+    }
+
     hr:last-of-type {
         margin-top: $vertical-grid-base-half * 8;
     }
 
     tr {
         line-height: $vertical-grid-base * 1.0;
+        box-sizing: border-box;
     }
 }
 
