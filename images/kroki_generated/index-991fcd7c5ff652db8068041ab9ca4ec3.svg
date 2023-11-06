@@ -4,7 +4,7 @@
 	[Think] plan and design -&gt; [Make]
 	[Learn] use skill -&gt; [Make]</desc>
 	<g stroke-width="1.0" text-align="left" font="12pt Helvetica, Arial, sans-serif" font-size="12pt" font-family="Helvetica" font-weight="bold" font-style="normal">
-		<g transform="translate(0.5, 0.5)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round" stroke="#33322E">
+		<g font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" stroke-width="3.0" stroke-linejoin="round" stroke-linecap="round" stroke="#33322E">
 			<g stroke="transparent" fill="transparent">
 				<rect x="0.0" y="0.0" height="229.0" width="363.5" stroke="none"></rect>
 			</g>
@@ -24,9 +24,9 @@
 					<path d="M109.5 130.0 L107.1 138.2 L115.7 138.7 L101.7 142.0 Z"></path>
 					<g data-name="Read">
 						<g fill="#eee8d5" stroke="#33322E" data-name="Read">
-							<rect x="51.0" y="0.0" height="31.0" width="58.0" data-name="Read"></rect>
+							<rect x="50.8" y="0.0" height="31.0" width="58.0" data-name="Read"></rect>
 						</g>
-						<g transform="translate(51, 0)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="Read">
+						<g transform="translate(50.75, 0)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="Read">
 							<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="Read">
 								<text x="21.0" y="13.5" stroke="none" text-anchor="middle" data-name="Read">Read</text>
 								
@@ -57,9 +57,9 @@
 					</g>
 					<g data-name="Make">
 						<g fill="#eee8d5" stroke="#33322E" data-name="Make">
-							<rect x="50.0" y="142.0" height="31.0" width="59.0" data-name="Make"></rect>
+							<rect x="50.3" y="142.0" height="31.0" width="59.0" data-name="Make"></rect>
 						</g>
-						<g transform="translate(50, 142)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="Make">
+						<g transform="translate(50.25, 142)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="Make">
 							<g transform="translate(8, 8)" fill="#33322E" text-align="center" data-name="Make">
 								<text x="21.5" y="13.5" stroke="none" text-anchor="middle" data-name="Make">Make</text>
 								

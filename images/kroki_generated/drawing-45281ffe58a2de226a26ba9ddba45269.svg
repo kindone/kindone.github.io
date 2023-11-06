@@ -51,29 +51,11 @@
 											</g>
 										</g>
 									</g>
-									<g data-name="nomnoml">
-										<g fill="#cfcfcf" stroke="#555866" data-name="nomnoml">
-											<rect x="177.0" y="0.0" height="62.0" width="159.0" data-name="nomnoml"></rect>
-											<path d="M177.0 31.0 L336.0 31.0" fill="none" data-name="nomnoml"></path>
-										</g>
-										<g transform="translate(177, 0)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="nomnoml">
-											<g transform="translate(8, 8)" fill="#555866" text-align="center" data-name="nomnoml">
-												<text x="71.5" y="13.5" stroke="none" text-anchor="middle" data-name="nomnoml">nomnoml</text>
-												
-											</g>
-										</g>
-										<g transform="translate(177, 31)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="nomnoml">
-											<g transform="translate(8, 8)" fill="#555866" text-align="left" data-name="nomnoml">
-												<text x="0.0" y="13.5" stroke="none" data-name="nomnoml">이 그림을 그린 언어</text>
-												
-											</g>
-										</g>
-									</g>
 									<g data-name="graphviz">
 										<g fill="#cfcfcf" stroke="#555866" data-name="graphviz">
-											<rect x="376.0" y="16.0" height="31.0" width="84.0" data-name="graphviz"></rect>
+											<rect x="177.0" y="15.5" height="31.0" width="84.0" data-name="graphviz"></rect>
 										</g>
-										<g transform="translate(376, 16)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="graphviz">
+										<g transform="translate(177, 15.5)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="graphviz">
 											<g transform="translate(8, 8)" fill="#555866" text-align="center" data-name="graphviz">
 												<text x="34.0" y="13.5" stroke="none" text-anchor="middle" data-name="graphviz">graphviz</text>
 												
@@ -82,20 +64,38 @@
 									</g>
 									<g data-name="D2">
 										<g fill="#cfcfcf" stroke="#555866" data-name="D2">
-											<rect x="500.0" y="16.0" height="31.0" width="38.0" data-name="D2"></rect>
+											<rect x="301.0" y="15.5" height="31.0" width="38.0" data-name="D2"></rect>
 										</g>
-										<g transform="translate(500, 16)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="D2">
+										<g transform="translate(301, 15.5)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="D2">
 											<g transform="translate(8, 8)" fill="#555866" text-align="center" data-name="D2">
 												<text x="11.0" y="13.5" stroke="none" text-anchor="middle" data-name="D2">D2</text>
 												
 											</g>
 										</g>
 									</g>
+									<g data-name="nomnoml">
+										<g fill="#cfcfcf" stroke="#555866" data-name="nomnoml">
+											<rect x="379.0" y="0.0" height="62.0" width="159.0" data-name="nomnoml"></rect>
+											<path d="M379.0 31.0 L538.0 31.0" fill="none" data-name="nomnoml"></path>
+										</g>
+										<g transform="translate(379, 0)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="nomnoml">
+											<g transform="translate(8, 8)" fill="#555866" text-align="center" data-name="nomnoml">
+												<text x="71.5" y="13.5" stroke="none" text-anchor="middle" data-name="nomnoml">nomnoml</text>
+												
+											</g>
+										</g>
+										<g transform="translate(379, 31)" font-family="Helvetica" font-size="12pt" font-weight="normal" font-style="normal" data-name="nomnoml">
+											<g transform="translate(8, 8)" fill="#555866" text-align="left" data-name="nomnoml">
+												<text x="0.0" y="13.5" stroke="none" data-name="nomnoml">이 그림을 그린 언어</text>
+												
+											</g>
+										</g>
+									</g>
 									<g data-name="PlantUML">
 										<g fill="#cfcfcf" stroke="#555866" data-name="PlantUML">
-											<rect x="578.0" y="16.0" height="31.0" width="92.0" data-name="PlantUML"></rect>
+											<rect x="578.0" y="15.5" height="31.0" width="92.0" data-name="PlantUML"></rect>
 										</g>
-										<g transform="translate(578, 16)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="PlantUML">
+										<g transform="translate(578, 15.5)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="PlantUML">
 											<g transform="translate(8, 8)" fill="#555866" text-align="center" data-name="PlantUML">
 												<text x="38.0" y="13.5" stroke="none" text-anchor="middle" data-name="PlantUML">PlantUML</text>
 												
@@ -104,9 +104,9 @@
 									</g>
 									<g data-name="Pikchr">
 										<g fill="#cfcfcf" stroke="#555866" data-name="Pikchr">
-											<rect x="710.0" y="16.0" height="31.0" width="65.0" data-name="Pikchr"></rect>
+											<rect x="710.0" y="15.5" height="31.0" width="65.0" data-name="Pikchr"></rect>
 										</g>
-										<g transform="translate(710, 16)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="Pikchr">
+										<g transform="translate(710, 15.5)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="Pikchr">
 											<g transform="translate(8, 8)" fill="#555866" text-align="center" data-name="Pikchr">
 												<text x="24.5" y="13.5" stroke="none" text-anchor="middle" data-name="Pikchr">Pikchr</text>
 												
@@ -115,9 +115,9 @@
 									</g>
 									<g data-name="...">
 										<g fill="#cfcfcf" stroke="#555866" data-name="...">
-											<rect x="815.0" y="16.0" height="31.0" width="31.0" data-name="..."></rect>
+											<rect x="815.0" y="15.5" height="31.0" width="31.0" data-name="..."></rect>
 										</g>
-										<g transform="translate(815, 16)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="...">
+										<g transform="translate(815, 15.5)" font-family="Helvetica" font-size="12pt" font-weight="bold" font-style="normal" data-name="...">
 											<g transform="translate(8, 8)" fill="#555866" text-align="center" data-name="...">
 												<text x="7.5" y="13.5" stroke="none" text-anchor="middle" data-name="...">...</text>
 												
